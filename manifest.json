@@ -10,11 +10,16 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Omnifactory - 1.2.1 - Endgame Update",
+  "name": "DataDeer.net Modpack",
   "version": "1.2.1",
-  "author": "tremalkinger",
+  "author": "zaners123",
   "projectID": 313440,
   "files": [
+    {
+      "projectID": 223008,
+      "fileID": 2670112,
+      "required": true
+    },
     {
       "projectID": 310812,
       "fileID": 2726897,
